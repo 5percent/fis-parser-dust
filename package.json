@@ -1,7 +1,7 @@
 {
     "name" : "fis-parser-dustjs",
     "description" : "A parser plugin for fis to compile dust file.",
-    "version" : "0.0.2",
+    "version" : "0.0.3",
     "author" : "FIS Team <fis@baidu.com>; yqt0221@gmail.com; v@luzhe.info",
     "homepage" : "https://github.com/5percent/fis-parser-dust",
     "keywords": [ "fis", "dust", "dustjs-linkedin" ],
